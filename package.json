@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoMorales98/Fizzbuzz.git"
+  },
+  "author": "Eduardo Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoMorales98/Fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/EduardoMorales98/Fizzbuzz#readme"
+}
