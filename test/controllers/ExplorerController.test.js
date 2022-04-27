@@ -13,8 +13,8 @@ describe("Test para ExplorerController",()=>{
     });
 
     test("3. Calcular el número de explorers que están en node",()=>{
-            const numberExplorersInNode=ExplorerController.getExplorersAmonutByMission("node");
-            //console.log(numberExplorersInNode)
-            expect(numberExplorersInNode).toBe(10);
+        const numberExplorersInNode=ExplorerController.getExplorersAmonutByMission("node");
+        //console.log(numberExplorersInNode)
+        expect(numberExplorersInNode).toBe(10);
     });
 });
